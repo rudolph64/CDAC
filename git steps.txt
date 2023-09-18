@@ -1,0 +1,31 @@
+echo "# cdacrudy" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/rudolph64/cdacrudy.git
+git push -u origin main
+
+token
+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
+
+class steps
+go to directory or create one then go to that dire
+git init
+git clone url
+git add
+git commit
+git push
+
+github create a new repository and upload local files to that github repo
+right click on the project1(contains files to upload) folder on desktop
+create repo and then do not click create repo
+git init(will track all changes)
+git status
+git add .
+git commit -m "first commit"
+check branch optional
+git remote add origin url
+git push -u origin master
+to upload the new local file to the above github repo
+
